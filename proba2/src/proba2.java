@@ -1,4 +1,3 @@
-
 public class proba2 {
 	///komentarioa jarri
 	public static void main(String[] args) {
@@ -7,3 +6,4 @@ public class proba2 {
 	//coment1
 
 }/// klase amaiera
+//anealiseda commit egin du
